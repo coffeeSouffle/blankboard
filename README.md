@@ -13,7 +13,7 @@
 1. [socket.io](http://socket.io/)
 2. [redis](http://redis.io/)
 
-## 使用準備
+## BlankBoard 安裝
 
 - 在同一個目錄下執行
 
